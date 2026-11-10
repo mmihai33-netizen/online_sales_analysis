@@ -1,2 +1,8 @@
 __pycache__/
 *.py[cod]
+config.json
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.webp
